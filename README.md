@@ -6,6 +6,9 @@ Developed as the capstone project for **CodePath CYB101**.
 Play as a government email inspector tasked with classifying incoming transmissions
 as legitimate or fraudulent before your clearance is revoked.
 
+<img width="2008" height="1442" alt="image" src="https://github.com/user-attachments/assets/b16566b2-083c-4e03-9492-a93ef214a4af" />
+
+
 ## About
 
 This project was created as the final capstone for **CodePath CYB101 (Introduction to 
