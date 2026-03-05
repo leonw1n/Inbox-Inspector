@@ -8,16 +8,17 @@ as legitimate or fraudulent before your clearance is revoked.
 
 ## Screenshots
 
-## Menu
+### Menu
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/b16566b2-083c-4e03-9492-a93ef214a4af" />
+
 ### Inbox
-<img width="1988" height="1422" alt="image" src="https://github.com/user-attachments/assets/4590d44e-66e0-4152-b2dd-a865866059bb" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/4590d44e-66e0-4152-b2dd-a865866059bb" />
 
 ### Email Review
-<img width="1984" height="1440" alt="image" src="https://github.com/user-attachments/assets/a5f15fdd-f23d-4a35-8457-7a66ec431265" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a5f15fdd-f23d-4a35-8457-7a66ec431265" />
 
 ### Evidence Log
-<img width="1986" height="1424" alt="image" src="https://github.com/user-attachments/assets/910f6aa3-aaa0-4f59-90af-76fef07af67d" />
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/910f6aa3-aaa0-4f59-90af-76fef07af67d" />
 
 
 ## About
